@@ -1,0 +1,21 @@
+/*
+* file upload and views result
+*/
+.form-group {
+  display: inline-block;
+}
+.table {
+  table-layout: fixed;
+}
+.text-overflow {
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.cell-1, .cell-2 {
+  width: 15%;
+}
+.cell-3 {
+  width: 10%;
+}
